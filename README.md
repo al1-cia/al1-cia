@@ -10,6 +10,7 @@
 # Get in touch 
 
 📬Email : alicia25gonsalves@gmail.com
+
 Connect with me🚀
 
  [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' alt='linkedin' width='30' height='40'>](https://www.linkedin.com/in/alicia-gonsalves-9b850124b/)   [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg' alt='codepen' width='30' height='40'>](https://codepen.io/al1-cia)  
