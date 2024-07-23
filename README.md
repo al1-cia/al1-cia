@@ -12,7 +12,7 @@
 📬Email : alicia25gonsalves@gmail.com
 Connect with me🚀
 
- [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' alt='linkedin' width='30' height='40'>](https://www.linkedin.com/in/katia-vaz-a150ab250/)   [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg' alt='codepen' width='30' height='40'>](https://codepen.io/Katia-Emilia)  
+ [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' alt='linkedin' width='30' height='40'>](https://www.linkedin.com/in/alicia-gonsalves-9b850124b/)   [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg' alt='codepen' width='30' height='40'>](https://codepen.io/al1-cia)  
 
 # My Stats
 <!--
@@ -35,6 +35,6 @@ Connect with me🚀
   Thanks for visiting my profile, see you next time!
   <br>
   
-  <img src="https://profile-counter.glitch.me/Katia-Emilia/count.svg" />
+  <img src="https://profile-counter.glitch.me/al1-cia/count.svg" />
 </p>
 
