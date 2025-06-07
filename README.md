@@ -34,6 +34,6 @@ Connect with me🚀
   Thanks for visiting my profile, see you next time!
   <br>
   
-  Profile visits: <img src="https://profile-counter.glitch.me/al1-cia/count.svg" />
+  <img src="https://profile-counter.glitch.me/al1-cia/count.svg" />
 </p>
 
