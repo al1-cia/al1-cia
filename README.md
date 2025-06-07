@@ -1,6 +1,4 @@
 
-<img src="https://github.com/al1-cia/al1-cia/blob/main/github-header-image.png" alt="Hello world">
-
 # About me 
 
 - 💻 Novice SWE
@@ -36,6 +34,6 @@ Connect with me🚀
   Thanks for visiting my profile, see you next time!
   <br>
   
-  <img src="https://profile-counter.glitch.me/al1-cia/count.svg" />
+  Profile visits: <img src="https://profile-counter.glitch.me/al1-cia/count.svg" />
 </p>
 
